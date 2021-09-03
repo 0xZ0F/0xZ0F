@@ -1,15 +1,8 @@
 ## Hell friend, I'm Z0F.
-#### What I Do
-Reverse engineer software, process exploitation, security research, and I teach reverse engineering in my free time!
-Skills:
-* C/C++
-* C#
-* Python
-* Bash
-* Powershell
-* Windows Internals
-* Reverse Engineering (specifically Windows).
-* Offensive Security (penetration testing, red teaming, etc.)
+### What I Do
+I do software reverse engineering, process exploitation, security research, and I teach reverse engineering in my free time.
+
+My skills include Assembly, C/C++, C#, Java, Python, Bash, Powershell, Windows Internals, Reverse Engineering (specifically Windows), Penetration Testing, Red Teaming, and more.
 
 I currently focus my efforts on two things. Both of which I hope will come to the same result.
 * First, I'm a software bug hunter and exploit developer. 
