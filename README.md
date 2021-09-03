@@ -1,4 +1,3 @@
-## Hell friend, I'm Z0F.
 ### What I Do
 I do software reverse engineering, process exploitation, security research, and I teach reverse engineering in my free time.
 
