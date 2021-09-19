@@ -19,3 +19,4 @@ I hope that I can bring education and research which will help the industry. At 
 * [GitHub](https://github.com/0xZ0F)
 * [Discord](https://discord.gg/73tkPGv)
 * [Patreon](https://www.patreon.com/z0f)
+* [TryHackMe Room](https://tryhackme.com/room/win64assembly)
