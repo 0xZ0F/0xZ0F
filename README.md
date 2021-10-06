@@ -4,7 +4,7 @@ I do software reverse engineering, process exploitation, security research, and 
 My skills include Assembly, C/C++, C#, Java, Python, Bash, Powershell, Windows Internals, Reverse Engineering (specifically Windows), Penetration Testing, Red Teaming, and more.
 
 I currently focus my efforts on two things. Both of which I hope will come to the same result.
-* First, I'm a software bug hunter and exploit developer. 
+* First, I'm a software and OS reverse engineer, I also use/develop custom tools. 
 * Second, I (am starting to) teach what I do. I believe that software security has a significant lack of talent and numbers. 
 
 #### State of Cybersecurity, Why I Teach
