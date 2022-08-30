@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xZ0F&show_icons=true&theme=radical)](https://github.com/0xZ0F)
+
 ### What I Do
 I do software reverse engineering, process exploitation, security research, and I teach reverse engineering in my free time.
 
