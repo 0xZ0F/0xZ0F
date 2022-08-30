@@ -1,6 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xZ0F&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xZ0F&show_icons=true&theme=radical)](https://github.com/0xZ0F)
+| <a href="https://github.com/0xZ0F"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xZ0F&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Z0F's github stats" /></a> | <a href="https://github.com/0xZ0F"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZ0F&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### What I Do
 I do software reverse engineering, process exploitation, security research, and I teach reverse engineering in my free time.
